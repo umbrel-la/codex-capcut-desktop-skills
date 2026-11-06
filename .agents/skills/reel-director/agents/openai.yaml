@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapCut ПК — выбор задачи и монтаж"
+  short_description: "Новый рилс, оформление или продолжение на ПК"
+  default_prompt: "Используй $reel-director: определи сценарий моего задания для CapCut на ПК и выполни только необходимые этапы."

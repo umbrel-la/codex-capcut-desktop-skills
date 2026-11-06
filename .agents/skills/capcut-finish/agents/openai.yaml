@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapCut ПК — оформление и правки"
+  short_description: "Motion, фон, субтитры и отдельные правки на ПК"
+  default_prompt: "Используй $capcut-finish для заказанного оформления или правки готового видео в CapCut на ПК; сохрани остальные параметры монтажа."
